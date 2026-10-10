@@ -1,0 +1,9 @@
+[project]
+name = "howgood-application"
+version = "0.1.0"
+description = "Signed job application submission"
+requires-python = ">=3.14"
+dependencies = [
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+]
